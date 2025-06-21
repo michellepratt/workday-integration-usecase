@@ -1,9 +1,19 @@
-📁 Workday-Integration-Blueprint
-├── README.md                <- Overview of the project
-├── API_Design/
-│   ├── onboarding_api.json
-│   └── benefits_enrollment_api.xml
-├── Architecture/
-│   └── integration_flow.drawio
-├── Case_Study.pdf
-└── ProjectPlan.xlsx
+# Workday Integration Blueprint
+
+## Objective
+Simulate a full integration lifecycle using public tools and frameworks as proxies for Workday.
+
+## Modules Covered
+- Core HCM
+- Time Tracking
+- Benefits
+- Payroll
+
+## Key Artifacts
+- API samples
+- Data flow architecture
+- Implementation checklist
+- Project governance framework
+
+## Author
+michellepratt | IT Applications Leader | Workday Integration Strategy
